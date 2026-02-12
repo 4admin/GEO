@@ -5,7 +5,7 @@ data de início: 12/02/2026
 
 A proposição aqui é demonstrar como a agregação de espaços públicos no extremo da Zona Sul de São Paulo alinhado à uma cosmovisão orientada serviços podem criar um espaço de lazer, cultura e recuperação ambiental em uma área periférica e densamente povoada de uma Metrópole que por anos ignora o potencial da área.
 
-![Área de Parques por Subprefeituras](.\fontes\Parques_por_subpref.png) Destacada a Subprefeitura de Cidade Ademar (0,5%)
+![Área de Parques por Subprefeituras](\fontes\Parques_por_subpref.png) Destacada a Subprefeitura de Cidade Ademar (0,5%)
 
 As áreas destacadas ao longo da Represa Billings no Mapa são:
 * Parque 7 Campos (área antigamente ocupada pela Represa Billings que acabou soterrada pelo assoreamento)
